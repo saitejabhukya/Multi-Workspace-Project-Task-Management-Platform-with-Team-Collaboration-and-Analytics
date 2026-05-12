@@ -17,12 +17,10 @@
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
 - [Getting Started](#-getting-started)
-- [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
-## 📝 Features <a name="-features"></a>
+## Features <a name="-features"></a>
 
 - **Multiple Workspaces:** Allow multiple workspaces to be created, each with its own set of projects, tasks, and members.
 - **Project Management:** Manage projects, tasks, and team members.
@@ -30,14 +28,14 @@
 - **Task Management:** Assign tasks to team members, set due dates, and track task status.
 - **User Management:** Invite team members, manage user roles, and view user activity.
 
-## 🛠️ Tech Stack <a name="-tech-stack"></a>
+## Tech Stack <a name="-tech-stack"></a>
 
 - **Framework:** ReactJS
 - **Styling:** Tailwind CSS
 - **UI Components:** Lucide React for icons
 - **State Management:** Redux Toolkit
 
-## 🚀 Getting Started <a name="-getting-started"></a>
+## Getting Started <a name="-getting-started"></a>
 
 First, install the dependencies. We recommend using `npm` for this project.
 
@@ -62,13 +60,3 @@ Open [http://localhost:5173](http://localhost:5173) with your browser to see the
 You can start editing the page by modifying `src/App.jsx`. The page auto-updates as you edit the file.
 
 ---
-
-## 🤝 Contributing <a name="-contributing"></a>
-
-We welcome contributions! Please see our [CONTRIBUTING.md](./CONTRIBUTING.md) for more details on how to get started.
-
----
-
-## 📜 License <a name="-license"></a>
-
-This project is licensed under the MIT License. See the [LICENSE.md](./LICENSE.md) file for details.
